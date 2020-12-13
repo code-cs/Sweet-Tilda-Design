@@ -55,7 +55,7 @@ h1{
     font-size: 2em;
     border-bottom: 2px solid pink;
     border-right: 2px solid pink;
-    width: 350px;
+    width: 360px;
     text-align: center;
     box-shadow: 4px 4px 5px  #ff9999;
 
@@ -102,9 +102,13 @@ h1{
   width:40px;
   height:40px;
   margin-right: 10px;
-  border-radius: 50px;
+  /* border-radius: 50px; */
 }
 
+/* .logo{
+  width: 40px;
+  height: 40px;
+} */
 /* footer */
 .footer{
   background-color: #ff9999;
